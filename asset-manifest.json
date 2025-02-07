@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Restaurant-web-project/static/css/main.5ffc0b9d.css",
+    "main.js": "/Restaurant-web-project/static/js/main.ef520fd2.js",
+    "static/js/787.adc1714b.chunk.js": "/Restaurant-web-project/static/js/787.adc1714b.chunk.js",
+    "static/media/Mario and Adrian b.jpg": "/Restaurant-web-project/static/media/Mario and Adrian b.6ba0e06bfa9c1ea75109.jpg",
+    "static/media/restauranfood.jpg": "/Restaurant-web-project/static/media/restauranfood.e8abf5b772b6817189aa.jpg",
+    "static/media/Asset 20@4x.png": "/Restaurant-web-project/static/media/Asset 20@4x.2c859235d6c57bb54176.png",
+    "static/media/Logo .svg": "/Restaurant-web-project/static/media/Logo .fd87fc34e15316b670ea115ce700cd15.svg",
+    "static/media/5-star-review.jpg": "/Restaurant-web-project/static/media/5-star-review.fe4056c042121403c1c7.jpg",
+    "index.html": "/Restaurant-web-project/index.html",
+    "main.5ffc0b9d.css.map": "/Restaurant-web-project/static/css/main.5ffc0b9d.css.map",
+    "main.ef520fd2.js.map": "/Restaurant-web-project/static/js/main.ef520fd2.js.map",
+    "787.adc1714b.chunk.js.map": "/Restaurant-web-project/static/js/787.adc1714b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5ffc0b9d.css",
+    "static/js/main.ef520fd2.js"
+  ]
+}
