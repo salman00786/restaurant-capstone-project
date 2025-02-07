@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/React-Capstone-project/static/css/main.5ffc0b9d.css",
-    "main.js": "/React-Capstone-project/static/js/main.7214a241.js",
-    "static/js/787.adc1714b.chunk.js": "/React-Capstone-project/static/js/787.adc1714b.chunk.js",
-    "static/media/Mario and Adrian b.jpg": "/React-Capstone-project/static/media/Mario and Adrian b.6ba0e06bfa9c1ea75109.jpg",
-    "static/media/restauranfood.jpg": "/React-Capstone-project/static/media/restauranfood.e8abf5b772b6817189aa.jpg",
-    "static/media/Asset 20@4x.png": "/React-Capstone-project/static/media/Asset 20@4x.2c859235d6c57bb54176.png",
-    "static/media/Logo .svg": "/React-Capstone-project/static/media/Logo .fd87fc34e15316b670ea115ce700cd15.svg",
-    "static/media/5-star-review.jpg": "/React-Capstone-project/static/media/5-star-review.fe4056c042121403c1c7.jpg",
-    "index.html": "/React-Capstone-project/index.html",
-    "main.5ffc0b9d.css.map": "/React-Capstone-project/static/css/main.5ffc0b9d.css.map",
-    "main.7214a241.js.map": "/React-Capstone-project/static/js/main.7214a241.js.map",
-    "787.adc1714b.chunk.js.map": "/React-Capstone-project/static/js/787.adc1714b.chunk.js.map"
+    "main.css": "/restaurant-capstone-project/static/css/main.5ffc0b9d.css",
+    "main.js": "/restaurant-capstone-project/static/js/main.0e38decb.js",
+    "static/js/787.adc1714b.chunk.js": "/restaurant-capstone-project/static/js/787.adc1714b.chunk.js",
+    "static/media/Mario and Adrian b.jpg": "/restaurant-capstone-project/static/media/Mario and Adrian b.6ba0e06bfa9c1ea75109.jpg",
+    "static/media/restauranfood.jpg": "/restaurant-capstone-project/static/media/restauranfood.e8abf5b772b6817189aa.jpg",
+    "static/media/Asset 20@4x.png": "/restaurant-capstone-project/static/media/Asset 20@4x.2c859235d6c57bb54176.png",
+    "static/media/Logo .svg": "/restaurant-capstone-project/static/media/Logo .fd87fc34e15316b670ea115ce700cd15.svg",
+    "static/media/5-star-review.jpg": "/restaurant-capstone-project/static/media/5-star-review.fe4056c042121403c1c7.jpg",
+    "index.html": "/restaurant-capstone-project/index.html",
+    "main.5ffc0b9d.css.map": "/restaurant-capstone-project/static/css/main.5ffc0b9d.css.map",
+    "main.0e38decb.js.map": "/restaurant-capstone-project/static/js/main.0e38decb.js.map",
+    "787.adc1714b.chunk.js.map": "/restaurant-capstone-project/static/js/787.adc1714b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5ffc0b9d.css",
-    "static/js/main.7214a241.js"
+    "static/js/main.0e38decb.js"
   ]
 }
